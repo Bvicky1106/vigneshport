@@ -17,7 +17,7 @@ const config = {
     <p className='text-2xl mb-6'>{config.subtitle}</p>
   <p></p>
     <div className='flex'>
-      <a href="#" className='hover:text-white px-4'><FaGithub/></a>
+      <a href="https://github.com/Bvicky1106" className='hover:text-white px-4'><FaGithub/></a>
       
       <a href="https://www.linkedin.com/public-profile/settings" className='hover:text-white'><FaLinkedin/></a>
     </div>

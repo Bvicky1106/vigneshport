@@ -1,4 +1,4 @@
-import AssestsImg from '../Assests/hero.png';
+import AssestsImg from '../Assests/about.png';
 
 export default function About() {
 
