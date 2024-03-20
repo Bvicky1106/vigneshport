@@ -9,7 +9,6 @@ export default function Contact() {
         <div className='text-center'>
           <h1 className='text-4xl text-black mb-4'>CONTACT</h1>
           <p className='text-black mb-8'>
-            Feel free to reach out! Whether you have questions or just want to say hello,
             you can contact me through various channels.
           </p>
 
